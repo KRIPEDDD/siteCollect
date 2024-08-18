@@ -1,0 +1,1 @@
+import{S as i,r as a}from"./iliRiO3Q.js";const r=i("asideStore",()=>{const s=a(""),t=a({});return{asideSelIndex:s,asideDatalist:t,setAsideSelIndex:e=>{s.value=e},setAsideDatalist:e=>{t.value=e}}});export{r as u};
