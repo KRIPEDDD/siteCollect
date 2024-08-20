@@ -1,0 +1,1 @@
+import{u as a}from"./DY2KoslE.js";import{s as t}from"./CUJHAJLH.js";const _={__name:"index",setup(n){const r=a(),e=Object.keys(t)[0],s=Object.keys(t[e])[0];return r.replace(`/channel-${e}/${s}`),(c,o)=>null}};export{_ as default};
